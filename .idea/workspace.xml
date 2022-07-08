@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6b64ba1-5ce4-4369-a0c8-adb5b2d6ce39" name="Changes" comment="">
+    <list default="true" id="f6b64ba1-5ce4-4369-a0c8-adb5b2d6ce39" name="Changes" comment="inicianto exercicios">
       <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo02/08 - Estrutura de repetição while/desafio057.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo02/08 - Estrutura de repetição while/desafio058.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo02/08 - Estrutura de repetição while/desafio059.py" afterDir="false" />
@@ -135,5 +135,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="inicianto exercicios" />
+    <option name="LAST_COMMIT_MESSAGE" value="inicianto exercicios" />
   </component>
 </project>
