@@ -11,7 +11,7 @@ for p in range(1,6):
         if menor>peso:
             menor=peso
 print(f'o menor peso registrado foi {menor}Kg')
-print(f'o menor peso registrado foi {maior}Kg')
+print(f'o maior peso registrado foi {maior}Kg')
 
 
 

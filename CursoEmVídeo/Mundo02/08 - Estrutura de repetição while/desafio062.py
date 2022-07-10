@@ -12,6 +12,7 @@ while mais !=0:
 
 
     print('PAUSA')
+
     mais = int(input('Quantos Termos Você quer mostrar a mais?'))
 print(f'Progressão finaliza com {total} Termos totais')
 
