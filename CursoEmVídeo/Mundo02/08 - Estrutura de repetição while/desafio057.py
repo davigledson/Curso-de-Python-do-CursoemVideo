@@ -1,8 +1,9 @@
-n='m'
-while n == 'm' or n== 'f':
-    n= input('Digite seu Sexo [M/F]:').lower()
+n = input('Digite seu Sexo [M/F]:').lower().strip()[0]
+while n not in 'MmFf':
+# tbm pode ser assim = while n != 'm' and n != 'f':
+    n = input('ERRO! Digite seu Sexo [M/F]:').lower().strip()[0]
+print(f'SEXO {n} REGISTRADO COM SUSCESSO')
 
-if n != 'm' or n != 'f':
-    print('ERRO! TENTE NOVAMENTE!')
+
 
 

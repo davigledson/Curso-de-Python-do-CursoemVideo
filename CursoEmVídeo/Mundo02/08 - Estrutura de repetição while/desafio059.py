@@ -7,7 +7,7 @@ div= n1/n2
 maior=max(n1,n2)
 menor=min(n1,n2)
 print('[1] Somar')
-print('[2]Subtrair')
+print('[2] Subtrair')
 print('[3] Multiplicar')
 print('[4] Dividir')
 print('[5] Maior')
@@ -19,18 +19,29 @@ print('[7] Sair do programa')
 
 p=1
 while p != 7:
+    print('[1] Somar')
+    print('[2] Subtrair')
+    print('[3] Multiplicar')
+    print('[4] Dividir')
+    print('[5] Maior')
+    print('[6] Novos números')
+    print('[7] Sair do programa')
+    print(40 * '=')
     p = int(input('Escolha uma Operação para Realizar:'))
     if p==1:
-        print(som)
+        print(f'o resultado e ',som)
     if p==2:
-        print(sub)
+        print(f'o resultado e ',sub)
     if p==3:
-        print(mult)
+        print(f'o resultado e ',mult)
     if p==4:
-        print(div)
+        print(f'o resultado e ',div)
     if p==5:
         print(f'{maior} é maior que {menor}')
     if p==6:
         n1 = int(input('Digite o 1° numero:'))
         n2 = int(input('Digite o 2° numero:'))
+    if p != 1 and p !=2 and p!=3 and p!= 4 and p!=5 and p!=6 and p!= 7:
+        print('Opção invalida! tente novamente')
 
+print('Finalizando! Volte sempre!')
