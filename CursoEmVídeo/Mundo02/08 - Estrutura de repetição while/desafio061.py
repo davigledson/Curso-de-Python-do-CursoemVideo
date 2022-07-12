@@ -1,8 +1,13 @@
-n1=int(input('Digite o 1° termo:'))
-r=int(input('Digite a Razão:'))
-contador=0
+print('Gerador de PA')
+print('='*20)
 
-while contador<10:
-    contador+=1
-    a=contador*(n1*r)
-    print(f'{contador}° termo =  {a}')
+primeiro = int(input('Digite o 1° termo:'))
+razao = int(input('Digite a Razão:'))
+termo = primeiro
+cont = 1
+print(f'1° termo = {primeiro}')
+while cont <= 9:
+    termo += razao
+    cont += 1
+
+    print(f'{cont}° termo = {termo}')

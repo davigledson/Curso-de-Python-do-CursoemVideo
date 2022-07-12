@@ -8,6 +8,7 @@ while mais !=0:
     while contador<=total:
         print(f'{termo}')
         termo += razao
+
         contador += 1
 
 
