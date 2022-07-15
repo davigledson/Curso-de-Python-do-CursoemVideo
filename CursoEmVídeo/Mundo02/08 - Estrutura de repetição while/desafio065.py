@@ -9,8 +9,6 @@ while rest in 'Ss':
     quant+=1
     soma+=n1
 
-
-
     rest = input('Quer continuar? [S/N]:').lower().strip()[0]
 
     if quant==1:
