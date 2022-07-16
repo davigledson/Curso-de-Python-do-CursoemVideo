@@ -34,5 +34,5 @@ print('=' * 60)
 medi = media / 4
 print(f'a media de idade do grupo e de {medi} anos')
 print(f'ha {fem} femeas e {masc} machos')
-print(f'a quantidade de mulheres que utrapassam a casa dos 20 anos é de  {fem20} mulheres')
+print(f'a quantidade de mulheres que ultrapassam a casa dos 20 anos é de  {fem20} mulheres')
 print(f'o homem mais velho foi o {nome} com {maior} anos')
