@@ -1,6 +1,6 @@
 
 f20=i18=hom=0
-s='t'
+
 
 while True:
     print('=='*20)
@@ -9,12 +9,12 @@ while True:
     i = int(input('Idade:'))
 
 
-    s = input('seu sexo [M/F]:').lower()
-    while s !='m' and s!='f':
-        s = input('seu sexo [M/F]:').lower()
+    s=' '
+    while s not in 'MmFf':
+        s = input('seu sexo [M/F]:').lower().strip()[0]
 
-    con=input('quer continuar [S/N]:').lower()
-    while con != 's' and con!='n':
+    con=' '
+    while con not in 'SsNn':
         con = input('quer continuar [S/N]:').lower()
 
 
@@ -27,4 +27,4 @@ while True:
         hom+=1
     if con =='n':
         break
-print(f'o total de homens cadastrados foi de {hom}\no de mulheres com menos de 20 anos foi de {f20}\n e o de pessoas com +18 foi de {i18}')
+print(f'o total de homens cadastrados foi de {hom}\no de mulheres com menos de 20 anos foi de {f20}\no de pessoas com +18 foi de {i18}')

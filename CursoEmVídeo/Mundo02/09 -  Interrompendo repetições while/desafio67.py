@@ -7,7 +7,8 @@ while True:
     if n1 <0:
         break
     for c in range(1,11):
-        print(f'MUTIPLICAÇÂO -> {n1} x {c} = {n1*c}',f'DIVISÂO -> {n1} / {c} = {n1/ c}',f'SOMA -> {n1} + {c} = {n1+c}',f'SUBTRAÇÂO -> {n1}- {c} = {n1-c}')
+        print(f'MUTIPLICAÇÂO -> {n1} x {c} = {n1*c}',f'DIVISÂO -> {n1} / {c} = {n1/ c:.2f}',f'SOMA -> {n1} + {c} = {n1+c}',f'SUBTRAÇÂO -> {n1}- {c} = {n1-c}')
+print('PROGRAMA DE TABUADA ENCERRADO! VOLTE SEMPRE.' )
 
 
 

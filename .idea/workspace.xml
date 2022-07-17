@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6b64ba1-5ce4-4369-a0c8-adb5b2d6ce39" name="Changes" comment="+2 ex">
-      <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo02/09 -  Interrompendo repetições while/desafio71.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo02/07-Estrutura de repetição for/desafio056.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo02/07-Estrutura de repetição for/desafio056.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo02/09 -  Interrompendo repetições while/desafio67.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo02/09 -  Interrompendo repetições while/desafio67.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo02/09 -  Interrompendo repetições while/desafio68.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo02/09 -  Interrompendo repetições while/desafio68.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo02/09 -  Interrompendo repetições while/desafio69.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo02/09 -  Interrompendo repetições while/desafio69.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo02/09 -  Interrompendo repetições while/desafio70.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo02/09 -  Interrompendo repetições while/desafio70.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo02/09 -  Interrompendo repetições while/desafio71.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo02/09 -  Interrompendo repetições while/desafio71.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
