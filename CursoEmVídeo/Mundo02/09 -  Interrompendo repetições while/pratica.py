@@ -5,3 +5,6 @@ while True:
         break
     s+=n
 print(f'a soma é {s}')
+
+for c in range(0,5):
+    print(c)
