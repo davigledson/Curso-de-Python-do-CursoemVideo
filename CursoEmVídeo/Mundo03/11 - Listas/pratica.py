@@ -5,7 +5,7 @@ num.sort() # colocando em ordem
 
 print(num)
 num.sort(reverse=True) # ordem reversa
-num.insert(2,0) # inserir elemento 2 = posição 0 = elemento
+num.insert(2,0) # inserir elemento 2 = posição, 0 = elemento
 print(num)
 
 num.pop(2) # elimina o último elemento se não determinando
