@@ -4,7 +4,7 @@ cont=0
 while True:
     val=int(input('Digite um valor:'))
     lista.append(val)
-    cont+=1
+
 
     esc = ' '
     while esc != 'n' and esc !='s':
@@ -14,7 +14,7 @@ while True:
 
 
 print(lista)
-print(f'A contagem de valores na lista e de {cont}')
+print(f'A contagem de valores na lista e de {len(lista)}')
 
 for pos, valores in enumerate(lista):
     if 5 == valores:
@@ -26,5 +26,5 @@ if 5 in lista:
 else:
     print(f'O valor 5 não estar na lista')
 
-lista.sort(reverse=True)
+lista.sort(reverse=True) # não funciona dentro de print
 print(f'A ordem decrescente da lista é {lista}')

@@ -1,20 +1,16 @@
-lista=[]
-val=input('Digite uma expressão:')
-lista.append(val)
-cont9=0
-cont0=0
-
-for pos,valores in enumerate(lista):
-    for v in valores:
-
-
-        if '(' in v:
-            cont9+=1
-        if ')' in v:
-            cont0+=1
-
-
-if cont9 == cont0:
+expr=input('Digite a expressão:')
+pilha=[]
+for simb in expr:
+    if simb == '(':
+        pilha.append('(')
+    elif simb ==')':
+        if len(pilha)>0:
+            pilha.pop()
+        else:
+            pilha.append(')')
+            break
+print(pilha)
+if len(pilha) == 0:
     print('Sua expressão está valida!')
 else:
-    print(f'Sua expressão está invalida!')
+    print('Sua expressaão está invalida!')

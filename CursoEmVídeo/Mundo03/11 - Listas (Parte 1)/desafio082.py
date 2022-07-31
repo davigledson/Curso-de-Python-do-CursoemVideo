@@ -20,4 +20,4 @@ for pos, valores in enumerate(lista):
 
 print(f'A lista completa é {lista}')
 print(f'a lista dos ímpares é {impar}')
-print(f'A lista dos pares {par}')
+print(f'A lista dos pares é {par}')
