@@ -1,5 +1,5 @@
-matriz=[]
-lista0=[]
+matriz=[[0,0,0,],[0,0,0],[0,0,0]]
+'''lista0=[]
 lista1=[]
 lista2=[]
 for c0 in range(0,3):
@@ -32,4 +32,13 @@ for m1 in matriz[1]:
 print()
 for m2 in matriz[2]:
     print(f'[ {m2} ]',end='')
-print()
+print()'''
+
+for l in range(0,3):
+    for c in range(0,3):
+        matriz[l][c]=int(input(f'Digite um valor para a posição [ {l} ] [ {c} ]: '))
+
+for l in range(0,3):
+    for  c in range(0,3):
+        print(f'[{matriz[l][c]:^5}]',end='')
+    print()

@@ -25,7 +25,7 @@ for c in nomepeso:
 
 
 
-pesomedia=pesosoma/pesso #media de pesoa das pessoas
+pesomedia=pesosoma/pesso #media de peso das pessoas
 
 pessoas_mais_pesadas=[]
 pessoas_mais_leves=[]
@@ -38,7 +38,7 @@ for p in nomepeso:
         pessoas_mais_leves.append(p[0])
 
 print('='*20,'PESADAS CADASTRADAS','='*20)
-print(f'Numero de pessoas cadastradas: {pesso}')
+print(f'Numero de pessoas cadastradas: {pesso}') #podia ter usado o len
 
 print('='*20,'PESSOAS MAIS PESADAS','='*20)
 print(f'Pessoas mais pesadas:{pessoas_mais_pesadas}')

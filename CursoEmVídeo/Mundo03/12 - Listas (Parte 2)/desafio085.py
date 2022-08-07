@@ -1,4 +1,4 @@
-lista=[]
+lista=[] #podia ter feito lista=[[],[]] tbm
 impar=[]
 par=[]
 for c in range(0,7):
