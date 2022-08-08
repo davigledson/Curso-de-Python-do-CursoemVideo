@@ -1,5 +1,5 @@
-matriz=[]
-lista0=[]
+
+'''lista0=[]
 lista1=[]
 lista2=[]
 par=[]
@@ -61,4 +61,26 @@ n3=matriz[2][2]
 print(f'A soma dos numeros da terceira coluna é de {n1+n2+n3}')
 
 ma=max(matriz[1])
-print(f'O valor maximo da 2° linha é {ma}')
+print(f'O valor maximo da 2° linha é {ma}')'''
+matriz=[[0,0,0,],[0,0,0],[0,0,0]]
+soma2l=0
+for l in range(0,3):
+    for c in range(0,3):
+        matriz[l][c]=int(input(f'Digite um valor para a posição [ {l} ] [ {c} ]: '))
+
+        if matriz[l][c] %2==0:
+            soma2l+=matriz[l][c]
+
+for l in range(0,3):
+    for  c in range(0,3):
+        print(f'[{matriz[l][c]:^5}]',end='')
+    print()
+
+print(f'A soma dos valores pares é {soma2l}')
+soma3c=0
+for l in range(0,3):
+    soma3c+=matriz[l][2]
+print(f'A soma ods valores da terceira coluna é {soma3c}')
+print(f'O maior valor da segunda linha é {max(matriz[1])}')
+
+

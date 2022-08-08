@@ -1,13 +1,12 @@
-sorteio=[]
-lista=[]
-j=int(input('Quantos jogos você quer que eu sorteie?'))
+from time import sleep
 from random import randint
-for d in range(0,j):
-    for c in range(0,6):
-        s=randint(0,60)
-        sorteio.append(s)
-    lista.append(sorteio[:])
-    sorteio.clear()
-
-for i in range(0,j):
-    print(f'Jogo {i+1} = {lista[i]}')
+jogo = list()
+quant = int(input('Quer gerar quantos jogos? '))
+for j in range(0, quant):
+    while len(jogo) < 6:
+        n = randint(1, 60)
+        if n not in jogo:
+            jogo.append(n)
+    print(f'Jogo {j+1}: {sorted(jogo)}')
+    sleep(.5)
+    jogo.clear()
