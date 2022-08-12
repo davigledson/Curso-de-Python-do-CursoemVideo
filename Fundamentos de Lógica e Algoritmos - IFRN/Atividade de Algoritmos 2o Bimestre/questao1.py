@@ -1,5 +1,5 @@
 '''
-Questão 1 - Faça um programa que pergunte o nome, calcule O nivel da procura de procura e o ranking
+Questão 1 - Faça um programa que pergunte o nome, calcule o nivel de procura e o ranking
  de um pirata baseado na quantidade de ouro roubado e na quantidade de marinheiros derrotados
 
 ====RANKING DOS PIRATAS=====
@@ -7,7 +7,7 @@ Questão 1 - Faça um programa que pergunte o nome, calcule O nivel da procura d
 - até 20 marinheiro derrotados - pirata normal
 - + de 20 marinheiros até 100 marinheiros derrotados - pirata perigoso
 - + de 100 até 300 marinheiros derrotados - Baroque Works
-- + 300 até 700 marinheitos derrotados - Shinchibukai
+- + 300 até 700 marinheiros derrotados - Shinchibukai
 - + de 700 marinheiros derrotados - Yonkou
 
 =====NIVEIS DE PROCURA=====

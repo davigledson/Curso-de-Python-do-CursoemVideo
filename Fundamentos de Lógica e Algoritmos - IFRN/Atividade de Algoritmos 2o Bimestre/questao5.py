@@ -1,6 +1,6 @@
 '''Faça um programa que permita ao usuario palpitar quem é o impostor,
- sendo que se o palpite estiver errado,o participante selecionado será eliminado
- e em cada rodada o impostor eliminará um participante'''
+ sendo que se o palpite estiver errado o participante selecionado será eliminado
+ e em cada rodada o impostor eliminará um participante tambem'''
 lista=['Davi Gledson','Carlos Eduardo','Maria Yashin','Gabriel Firmino','Pedro Ricardo','Nicassio Monteiro','Rafaela Ficheira','Maedson Calvagar']
 
 from random import randint
@@ -22,6 +22,7 @@ while True:
     morte = lista[escolha_da_morte]
 
     print(f'O impostor matou {morte}')
+    print('=' * 20)
     lista.remove(morte)
     sleep(1)
 
@@ -31,7 +32,9 @@ while True:
     for pos,d in enumerate(lista) :
         print(f'[{pos}] - {d}')
 
-    usu=int(input(f'Quem é o impostor? [digite de 0 até {len(lista)-1}]:'))
+    usu = int(input(f'Quem é o impostor? [digite de 0 até {len(lista) - 1}]:')[0])
+    while usu>len(lista)-1:
+        usu=int(input(f'Quem é o impostor? [digite de 0 até {len(lista)-1}]:')[0])
 
 
 
@@ -48,11 +51,13 @@ while True:
         print(f'Parabens! VOCÊ GANHOU!')
         break
     else:
+        print('=' * 20)
         frase_lenta1=f'{lista[usu]} não era o impostor!'
         for i in frase_lenta1:
             print(i,end='')
             sleep(.1)
         print()
+        print('=' * 20)
         lista.remove(lista[usu])
 
     if len(lista) <=2:

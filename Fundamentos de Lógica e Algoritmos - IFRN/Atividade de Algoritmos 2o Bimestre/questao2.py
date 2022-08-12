@@ -1,4 +1,5 @@
-''' Elabore um questionario de 3 questões com 10 alternativas e que contenha 3 alternativas corretas
+''' Elabore um questionario de 3 questões com 10 alternativas e que contenha 3
+ alternativas corretas em cada pergunta
  '''
 from time import sleep
 print('Qual linguagem não é de programação?')
