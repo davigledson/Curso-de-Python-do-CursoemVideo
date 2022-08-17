@@ -23,3 +23,5 @@ while True:
         print('VOCE PERDEU!')
         break
 print(f'seu total de vitorias consecutivas foi de {vitorias-1} vitorias')
+
+
