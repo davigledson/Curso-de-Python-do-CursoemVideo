@@ -25,7 +25,7 @@ print('=-=-='*30)
 print(f'O jogador {jogador} jogou {partidas} partidas')
 for pos,val in enumerate(lista):
     print(f'   => Na partida {pos+1} ele fez {val} gols')
-print(f'Foi um total de {total_de_gols} gols')
+print(f'Foi um total de {sum(dicionario["Gols"])} gols') # sum = soma
 
 
 

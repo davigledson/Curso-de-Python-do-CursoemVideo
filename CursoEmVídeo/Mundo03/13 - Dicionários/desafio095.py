@@ -29,18 +29,18 @@ print('=-=-='*30)
 print(lista_de_jogadores)
 
 print('=-=-='*30)
-print(f'{"cod. nome"}   {"Gols"}    {"Total"}')
+print(f'        {"cod. nome"}       {"Gols"}     {"Total"}')
 print('---'*30)
 for pos,j in enumerate(lista_de_jogadores):
-    print(f'{pos}    {j["Jogador"]}  {j["Gols"]} {j["Total de Gols"]}')
+    print(f'{pos!s:<10s}{j["Jogador"]!s:<10s}{j["Gols"]!s:<10s}     {j["Total de Gols"]}')
 
 usu=0
 while True:
     usu=int(input('Mostrar dados de qual jogador? [999 stop]:'))
     if usu <= len(lista_de_jogadores)-1:
-        print(f'-- LEVENTAMETNO DO JOGADOR: {lista_de_jogadores[usu]["Jogador"]}')
+        print(f'-- LEVANTAMENTO DO JOGADOR: {lista_de_jogadores[usu]["Jogador"]}')
         for pos,val in enumerate(lista_de_jogadores[usu]['Gols']):
-            print(f'na partida {pos} ele fez {val} gols')
+            print(f'    na partida {pos} ele fez {val} gols')
 
 
 

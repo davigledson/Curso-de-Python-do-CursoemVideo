@@ -21,4 +21,4 @@ if ctps != 0:
 print(dados)
 
 for k,v in dados.items():
-    print(f'{k} tem valor = {v}')
+    print(f' - {k} tem valor = {v}')
