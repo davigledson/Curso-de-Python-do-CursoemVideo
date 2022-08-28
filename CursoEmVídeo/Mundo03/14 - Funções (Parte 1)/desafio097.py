@@ -1,8 +1,8 @@
 def escreva(txt):
     le=len(txt)+4
-    print('-'*le)
+    print('~'*le)
     print(f'  {txt}')
-    print('-' * le)
+    print('~' * le)
 
 escreva('Davi Gledson')
 escreva('Davi Gledson da Silva Benedito')
