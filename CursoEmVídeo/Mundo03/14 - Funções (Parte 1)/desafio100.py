@@ -1,5 +1,5 @@
-lista = []
-def sorteio():
+
+def sorteio(lista):
 
     from random import randint
     for c in range(1,6):
@@ -12,7 +12,7 @@ def sorteio():
     print()
 
 
-def somapar():
+def somapar(lista):
     lista_par=[]
     for c in lista:
         if c%2==0:
@@ -25,6 +25,8 @@ def somapar():
         print(f' {c} ',end='')
     print(f' = {soma}')
 
-sorteio()
-somapar()
+
+numeros=[]
+sorteio(numeros)
+somapar(numeros)
 
