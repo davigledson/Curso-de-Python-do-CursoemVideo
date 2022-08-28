@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6b64ba1-5ce4-4369-a0c8-adb5b2d6ce39" name="Changes" comment="+2 ex">
+      <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo01/01-Tipos Primitivos e Saída de Dados/desafio003 - Somando dois números.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo01/01-Tipos Primitivos e Saída de Dados/desafio004 - Dissecando uma Variável.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo01/02-Operadores Aritméticos/desafio005 - Antecessor e Sucessor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo01/02-Operadores Aritméticos/desafio006 - Dobro, Triplo, Raiz Quadrada.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/14 - Funções (Parte 1)/desafio098.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/14 - Funções (Parte 1)/desafio098.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/14 - Funções (Parte 1)/desafio100.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/14 - Funções (Parte 1)/desafio100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo01/01-Tipos Primitivos e Saída de Dados/desafio003.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo01/01-Tipos Primitivos e Saída de Dados/desafio004.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo01/02-Operadores Aritméticos/desafio005.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo01/02-Operadores Aritméticos/desafio006.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
