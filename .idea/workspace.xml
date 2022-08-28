@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f6b64ba1-5ce4-4369-a0c8-adb5b2d6ce39" name="Changes" comment="+2 ex">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/14 - Funções (Parte 1)/desafio097.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/14 - Funções (Parte 1)/desafio097.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/14 - Funções (Parte 1)/desafio098.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/14 - Funções (Parte 1)/desafio098.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/14 - Funções (Parte 1)/desafio100.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/14 - Funções (Parte 1)/desafio100.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
       <recent name="C:\Users\Claudene\PycharmProjects\CursoEmVídeo\Mundo01\00-Testes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio097">
+  <component name="RunManager" selected="Python.desafio100">
     <configuration name="desafio096" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,10 +154,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.desafio097" />
         <item itemvalue="Python.desafio100" />
         <item itemvalue="Python.desafio099" />
         <item itemvalue="Python.desafio098" />
+        <item itemvalue="Python.desafio097" />
         <item itemvalue="Python.desafio096" />
       </list>
     </recent_temporary>
