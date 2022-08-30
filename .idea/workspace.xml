@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6b64ba1-5ce4-4369-a0c8-adb5b2d6ce39" name="Changes" comment="+2 ex">
-      <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo01/01-Tipos Primitivos e Saída de Dados/desafio003 - Somando dois números.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo01/01-Tipos Primitivos e Saída de Dados/desafio004 - Dissecando uma Variável.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo01/02-Operadores Aritméticos/desafio005 - Antecessor e Sucessor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo01/02-Operadores Aritméticos/desafio006 - Dobro, Triplo, Raiz Quadrada.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)/pratica.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo01/01-Tipos Primitivos e Saída de Dados/desafio003.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo01/01-Tipos Primitivos e Saída de Dados/desafio004.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo01/02-Operadores Aritméticos/desafio005.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo01/02-Operadores Aritméticos/desafio006.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,28 +45,7 @@
       <recent name="C:\Users\Claudene\PycharmProjects\CursoEmVídeo\Mundo01\00-Testes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio100">
-    <configuration name="desafio096" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/14 - Funções (Parte 1)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/14 - Funções (Parte 1)/desafio096.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.pratica">
     <configuration name="desafio097" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,13 +130,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pratica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)/pratica.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pratica" />
         <item itemvalue="Python.desafio100" />
         <item itemvalue="Python.desafio099" />
         <item itemvalue="Python.desafio098" />
         <item itemvalue="Python.desafio097" />
-        <item itemvalue="Python.desafio096" />
       </list>
     </recent_temporary>
   </component>
