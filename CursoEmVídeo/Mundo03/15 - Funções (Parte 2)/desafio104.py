@@ -9,7 +9,7 @@ def leiaint(num):
 
 
         else:
-            print('ERRO! DIGITE UM NUMERO INTEIRO')
+            print('\033[;31;58mERRO! DIGITE UM NUMERO INTEIRO')
 
 fun=leiaint('Digite um numero:')
 print(fun)
