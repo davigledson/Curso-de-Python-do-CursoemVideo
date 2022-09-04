@@ -20,14 +20,15 @@ def fatorial(num,show=False):
     return f
 
 
-print(fatorial(5,True))
+print(fatorial(5))
 print('=='*20)
 
 n=fatorial(5,True)
 print(n)
 
 print('=='*20)
-fatorial(7,True)
+
+print(fatorial(7,True))
 
 print('=='*20)
 help(fatorial)
