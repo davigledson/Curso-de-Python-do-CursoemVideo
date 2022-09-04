@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6b64ba1-5ce4-4369-a0c8-adb5b2d6ce39" name="Changes" comment="+2 ex">
-      <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)/desafio103 - Ficha do Jogador.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/pacote_uteis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/pacote_uteis/datas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/pacote_uteis/numeros/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/pacote_uteis/strings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/pratica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/pratica2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/uteis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)/desafio101.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)/desafio101 - Funções para votação.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)/desafio102.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)/desafio102 - Função para Fatorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)/desafio103.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)/desafio104.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)/desafio104 - Validando entrada de dados em Python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)/desafio105.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)/desafio105 - Analisando e gerando Dicionários.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)/desafio106.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)/desafio106 - Sistema interativo de ajuda em Python.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,70 +53,7 @@
       <recent name="C:\Users\Claudene\PycharmProjects\CursoEmVídeo\Mundo01\00-Testes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio104 - Validando entrada de dados em Python">
-    <configuration name="desafio101 - Funções para votação" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Claudene\PycharmProjects\CursoEmVídeo\Mundo03\15 - Funções (Parte 2)\desafio101 - Funções para votação.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="desafio102 - Função para Fatorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Claudene\PycharmProjects\CursoEmVídeo\Mundo03\15 - Funções (Parte 2)\desafio102 - Função para Fatorial.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="desafio103 - Ficha do Jogador" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Claudene\PycharmProjects\CursoEmVídeo\Mundo03\15 - Funções (Parte 2)\desafio103 - Ficha do Jogador.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.pratica2">
     <configuration name="desafio104 - Validando entrada de dados em Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio106" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio105 - Analisando e gerando Dicionários" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,7 +87,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)/desafio106.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)/desafio105 - Analisando e gerando Dicionários.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio106 - Sistema interativo de ajuda em Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/15 - Funções (Parte 2)/desafio106 - Sistema interativo de ajuda em Python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pratica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/pratica.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pratica2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/pratica2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pratica2" />
+        <item itemvalue="Python.pratica" />
+        <item itemvalue="Python.desafio106 - Sistema interativo de ajuda em Python" />
+        <item itemvalue="Python.desafio105 - Analisando e gerando Dicionários" />
         <item itemvalue="Python.desafio104 - Validando entrada de dados em Python" />
-        <item itemvalue="Python.desafio103 - Ficha do Jogador" />
-        <item itemvalue="Python.desafio102 - Função para Fatorial" />
-        <item itemvalue="Python.desafio101 - Funções para votação" />
-        <item itemvalue="Python.desafio106" />
       </list>
     </recent_temporary>
   </component>

@@ -5,18 +5,11 @@ def notas(*notas,sit=False):
     :param sit:valor opcional, indicado se deve ou não adicionar a sotuação
     :return:dicionario com várias informações sobre a situação da turma
     """
-    lista=[]
-    soma=0
-    for c in notas:
-        soma+=c
-        lista.append(c)
 
-
-
-    dicionario= {'Quantidade de notas':len(lista) , 'Maior nota': max(lista),
-                 'menor nota': min(lista), 'Media da turma': soma/len(lista)}
+    dicionario= {'Quantidade de notas':len(notas) , 'Maior nota': max(notas),
+                 'menor nota': min(notas), 'Media da turma': sum(notas)/len(notas)}
     if sit==True:
-        media=soma/len(lista)
+        media=sum(notas) / len(notas)
         if media>=7:
             dicionario['Situação']='Boa'
         elif media <7 and media>=6:
@@ -26,4 +19,6 @@ def notas(*notas,sit=False):
     return dicionario
 
 n=notas(9.5,6,8,sit=True)
+n1=notas(5,6,8,7,4,6)
 print(n)
+print(n1)
