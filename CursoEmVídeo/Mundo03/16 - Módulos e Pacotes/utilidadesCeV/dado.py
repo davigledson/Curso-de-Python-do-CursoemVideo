@@ -1,19 +1,16 @@
-
-def leiadinheieo(frase):
+# codigo incompleto de proposito, continuar na proxima aula
+def leiadinheiro(frase):
 
     while True:
-        leia=input(frase)
-        if '.' or ',' in leia:
-            ponto=leia.index('.')
-            virgula=leia.index(',')
+        entrada=str(input(frase)).replace(',','.').strip()
 
-        if leia.isnumeric():
-            leia = float(leia)
-            print(leia)
 
-            break
+
+        if entrada.isalpha() or entrada=="":
+            print(f'\033[;31;58m ERRO: {entrada} é um preço invalido!\033[m')
+
+
         else:
-            print(f'\033[;31;58m ERRO: {leia} é um preço invalido!\033[m')
+            return  float(entrada)
 
-leiadinheieo('Digite um valor:')
 
