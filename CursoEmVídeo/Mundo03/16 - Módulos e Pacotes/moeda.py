@@ -10,4 +10,5 @@ def aumentar(num,porcentagem):
 def diminuir(num,porcentagem):
     return num-(porcentagem/100)*num
 
-
+def moeda(num):
+    return f'R${num}'
