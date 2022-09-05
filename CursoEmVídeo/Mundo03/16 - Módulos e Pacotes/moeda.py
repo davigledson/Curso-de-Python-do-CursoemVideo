@@ -26,3 +26,16 @@ def diminuir(num,porcentagem,rs=False):
 
 def moeda(num):
     return f'R${num}'
+
+def resumo(num,aum,red):
+    print('--'*19)
+    print('         RESUMO DO VALOR')
+    print('--'*19)
+    print('--' * 19)
+    print(f'Preço analidado: R${num}')
+    print(f'Dobro do Preço: R${num*2}')
+    print(f'Metade do preço: R${num/2}')
+    print(f'{aum}% de aumento: R${(aum /100) *num + num}')
+    print(f'{red}% de redução: R${num-(red/100)*num}')
+    print('--' * 19)
+
