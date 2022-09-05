@@ -25,7 +25,8 @@ def diminuir(num,porcentagem,rs=False):
         return num-(porcentagem/100)*num
 
 def moeda(num):
-    return f'R${num}'
+
+    return f'R${num:.2f}'.replace('.',',')
 
 def resumo(num,aum,red):
     print('--'*19)
