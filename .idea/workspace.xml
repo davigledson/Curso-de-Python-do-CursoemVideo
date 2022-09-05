@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f6b64ba1-5ce4-4369-a0c8-adb5b2d6ce39" name="Changes" comment="+2 ex">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/desafio112.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/desafio112.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/utilidadesCeV/dado.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/utilidadesCeV/dado.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/desafio107.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/desafio107 - Exercitando módulos em Python.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
       <recent name="C:\Users\Claudene\PycharmProjects\CursoEmVídeo\Mundo01\00-Testes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio112">
+  <component name="RunManager" selected="Python.desafio107 - Exercitando módulos em Python">
     <configuration name="dado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio109" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio107 - Exercitando módulos em Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +101,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/desafio109.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/desafio107 - Exercitando módulos em Python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.desafio107 - Exercitando módulos em Python" />
         <item itemvalue="Python.desafio112" />
         <item itemvalue="Python.dado" />
         <item itemvalue="Python.desafio004 - Dissecando uma Variável" />
         <item itemvalue="Python.desafio110" />
-        <item itemvalue="Python.desafio109" />
       </list>
     </recent_temporary>
   </component>
