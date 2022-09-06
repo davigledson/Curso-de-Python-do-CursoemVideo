@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6b64ba1-5ce4-4369-a0c8-adb5b2d6ce39" name="Changes" comment="+2 ex">
+      <change afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/desafio112 - Entrada de dados monetários.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/desafio109.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/desafio109 - Formatando Moedas em Python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/desafio110.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/desafio110 - Reduzindo ainda mais seu programa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/desafio111.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/desafio111 - Transformando módulos em pacotes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/desafio112.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/utilidadesCeV/moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/utilidadesCeV/moeda.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,50 +50,8 @@
       <recent name="C:\Users\Claudene\PycharmProjects\CursoEmVídeo\Mundo01\00-Testes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio108 - Formatando Moedas em Python">
-    <configuration name="dado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/utilidadesCeV" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/utilidadesCeV/dado.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="desafio004 - Dissecando uma Variável" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoEmVídeo/Mundo01/01-Tipos Primitivos e Saída de Dados" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo01/01-Tipos Primitivos e Saída de Dados/desafio004 - Dissecando uma Variável.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="desafio107 - Exercitando módulos em Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.desafio110 - Reduzindo ainda mais seu programa">
+    <configuration name="desafio108 - Formatando Moedas em Python (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +63,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/desafio107 - Exercitando módulos em Python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/desafio108 - Formatando Moedas em Python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio112" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio110 - Reduzindo ainda mais seu programa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,7 +105,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/desafio112.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/desafio110 - Reduzindo ainda mais seu programa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio112 - Entrada de dados monetários (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/desafio112 - Entrada de dados monetários.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio112 - Entrada de dados monetários" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Claudene\PycharmProjects\CursoEmVídeo\Mundo03\16 - Módulos e Pacotes\desafio112 - Entrada de dados monetários.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.desafio110 - Reduzindo ainda mais seu programa" />
+        <item itemvalue="Python.desafio112 - Entrada de dados monetários (1)" />
+        <item itemvalue="Python.desafio108 - Formatando Moedas em Python (1)" />
+        <item itemvalue="Python.desafio112 - Entrada de dados monetários" />
         <item itemvalue="Python.desafio108 - Formatando Moedas em Python" />
-        <item itemvalue="Python.desafio107 - Exercitando módulos em Python" />
-        <item itemvalue="Python.desafio112" />
-        <item itemvalue="Python.dado" />
-        <item itemvalue="Python.desafio004 - Dissecando uma Variável" />
       </list>
     </recent_temporary>
   </component>
