@@ -1,4 +1,4 @@
-def metade(num,rs=False):
+def metade(num=0,rs=False):
 
     if rs:
         return f'R${num/2}'
@@ -6,29 +6,29 @@ def metade(num,rs=False):
         return num / 2
 
 
-def dobro(num,rs=False):
+def dobro(num=0,rs=False):
     if rs:
         return f'R${num*2}'
     else:
         return num*2
 
-def aumentar(num,porcentagem,rs=False):
+def aumentar(num=0,porcentagem=0,rs=False):
     if rs==True:
         return f'R$ {(porcentagem /100) *num + num}'
     else:
         return (porcentagem /100) *num + num
 
-def diminuir(num,porcentagem,rs=False):
+def diminuir(num=0,porcentagem=0,rs=False):
     if rs==True:
         return f'R${num-(porcentagem/100)*num}'
     else:
         return num-(porcentagem/100)*num
 
-def moeda(num):
+def moeda(num=0,moeda='R$'):
 
-    return f'R${num:.2f}'.replace('.',',')
+    return f'{moeda}{num:.2f}'.replace('.',',')
 
-def resumo(num,aum,red):
+def resumo(num=0,aum=0,red=0):
     print('--'*19)
     print('         RESUMO DO VALOR')
     print('--'*19)
