@@ -3,24 +3,29 @@ def leiaint(num):
         try:
             entrada=int(input(num))
 
-
         except KeyboardInterrupt:
-            print('\033[;31;58mErro! o usuario decidiu interromper\033[m')
+            print('\033[;31;58mErro! Entrada de dados interrompida pelo usuario \033[m')
+            return 0
+
         except (ValueError,TypeError):
-            print('\033[;31;58mErro! Digite um numero inteiro\033[m')
+            print('\033[;31;58mErro! Digite um numero inteiro valido\033[m')
+
 
         else:
             return entrada
 
 
+
 def leiafloat(num):
     while True:
         try:
-            entrada=float(input(num))
+            entrada=float(input(num).replace(',','.'))
         except KeyboardInterrupt:
-            print('\033[;31;58mErro! O usuario decidiu interromper\033[m')
+            print('\033[;31;58mErro! Entrada de dados interrompida pelo usuario \033[m')
+            return 0
+
         except(ValueError,TypeError):
-            print('\033[;31;58mErro! Digite um numero real\033[m')
+            print('\033[;31;58mErro! Digite um numero real valido\033[m')
 
         else:
             return entrada
