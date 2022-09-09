@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6b64ba1-5ce4-4369-a0c8-adb5b2d6ce39" name="Changes" comment="+2 ex" />
+    <list default="true" id="f6b64ba1-5ce4-4369-a0c8-adb5b2d6ce39" name="Changes" comment="+2 ex">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/dados" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/arquivo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/desafio115.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/desafio115.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/funções/funçoes_criadas_para_o_desafio115.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/funções/funçoes_criadas_para_o_desafio115.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +48,7 @@
       <recent name="C:\Users\Claudene\PycharmProjects\CursoEmVídeo\Mundo01\00-Testes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.funçoes_criadas_para_o_desafio115">
+  <component name="RunManager" selected="Python.desafio115">
     <configuration name="desafio113 - Funções aprofundadas em Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
