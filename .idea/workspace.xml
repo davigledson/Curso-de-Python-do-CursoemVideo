@@ -43,49 +43,7 @@
       <recent name="C:\Users\Claudene\PycharmProjects\CursoEmVídeo\Mundo01\00-Testes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio114">
-    <configuration name="desafio110 - Reduzindo ainda mais seu programa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/desafio110 - Reduzindo ainda mais seu programa.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="desafio112 - Entrada de dados monetários (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/16 - Módulos e Pacotes/desafio112 - Entrada de dados monetários.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.funçoes_criadas_para_o_desafio115">
     <configuration name="desafio113 - Funções aprofundadas em Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,7 +65,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio114" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio114 - Site está acessível" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,7 +77,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/desafio114.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Claudene\PycharmProjects\CursoEmVídeo\Mundo03\17 - Tratamento de Erros e Exceções\desafio114 - Site está acessível.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pratica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio115" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +98,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/pratica.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/desafio115.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="funçoes_criadas_para_o_desafio115" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/funções" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/funções/funçoes_criadas_para_o_desafio115.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lista_de_dados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/lista_de_dados.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.desafio114" />
+        <item itemvalue="Python.desafio115" />
+        <item itemvalue="Python.funçoes_criadas_para_o_desafio115" />
+        <item itemvalue="Python.lista_de_dados" />
+        <item itemvalue="Python.desafio114 - Site está acessível" />
         <item itemvalue="Python.desafio113 - Funções aprofundadas em Python" />
-        <item itemvalue="Python.pratica" />
-        <item itemvalue="Python.desafio110 - Reduzindo ainda mais seu programa" />
-        <item itemvalue="Python.desafio112 - Entrada de dados monetários (1)" />
       </list>
     </recent_temporary>
   </component>

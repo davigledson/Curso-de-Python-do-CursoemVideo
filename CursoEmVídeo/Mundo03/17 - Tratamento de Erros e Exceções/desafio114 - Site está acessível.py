@@ -1,4 +1,4 @@
-#solução não r
+#solução não entendida
 import urllib.request
 
 
