@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f6b64ba1-5ce4-4369-a0c8-adb5b2d6ce39" name="Changes" comment="+2 ex">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/dados" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/arquivo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/desafio115.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/desafio115.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/arquivo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/arquivo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/desafio115.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/desafio115 - Prólogo de Bancos de Dados.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/funções/funçoes_criadas_para_o_desafio115.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/funções/funçoes_criadas_para_o_desafio115.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
       <recent name="C:\Users\Claudene\PycharmProjects\CursoEmVídeo\Mundo01\00-Testes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio115">
+  <component name="RunManager" selected="Python.desafio115 - Prólogo de Bancos de Dados">
     <configuration name="desafio113 - Funções aprofundadas em Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio115" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio115 - Prólogo de Bancos de Dados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVídeo/Mundo03/17 - Tratamento de Erros e Exceções/desafio115.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Claudene\PycharmProjects\CursoEmVídeo\Mundo03\17 - Tratamento de Erros e Exceções\desafio115 - Prólogo de Bancos de Dados.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +156,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.desafio115" />
+        <item itemvalue="Python.desafio115 - Prólogo de Bancos de Dados" />
         <item itemvalue="Python.funçoes_criadas_para_o_desafio115" />
         <item itemvalue="Python.lista_de_dados" />
         <item itemvalue="Python.desafio114 - Site está acessível" />

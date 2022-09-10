@@ -18,10 +18,12 @@ while True:
 
     if resposta == 1:
         funçoes_criadas_para_o_desafio115.lerArquivo(arq)
+
     elif resposta == 2:
         print('--' * 20)
         nome = input('Nome:')
-        idade = int(input('Idade:'))
+        idade = funçoes_criadas_para_o_desafio115.leiaint('Idade:')
+        funçoes_criadas_para_o_desafio115.cadastrar(arq,nome,idade)
         print('--' * 20)
 
     elif resposta == 3:
